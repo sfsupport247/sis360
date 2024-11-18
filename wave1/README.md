@@ -14,6 +14,22 @@
 ## Getting Started
 To get started, explore the [Course Management](CourseManagement/) module or contribute to the project.
 
+Step 1: Download the Solution
+Go to the GitHub repository and navigate to the latest release under the Releases section.
+Download the solution file: SIS360_1_0_0_1.zip.
+
+Step 2: Import into Power Platform
+Open Power Platform Admin Center.
+Select your environment where you want to deploy the solution.
+Navigate to Solutions in the left-hand menu.
+Click on the Import button.
+Choose the downloaded file (SIS360_1_0_0_1.zip) and follow the prompts to import the solution.
+
+Step 3: Verify the Deployment
+Once the solution is imported, navigate to Apps in your environment.
+Ensure the SIS360 app and its components (tables, flows, etc.) are visible and functioning.
+Start configuring the app based on your organizational requirements.
+
 ## Contributing
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
 
