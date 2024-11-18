@@ -12,7 +12,7 @@
 - AI and automation support using Microsoft Copilot.
 
 ## Getting Started
-To get started, explore the [Course Management](CourseManagement/) module or contribute to the project.
+To get started, explore the [Course Management](wave1/CourseManagement/) module or contribute to the project.
 
 ## Contributing
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
