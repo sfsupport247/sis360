@@ -15,8 +15,7 @@
 To get started, explore the [Course Management](wave1/CourseManagement/) module or contribute to the project.
 
 Wave-1: 
-    Requirements - https://www.youtube.com/watch?v=3vq5-wrfW2U&t=47s
-    Solution Demo - https://www.youtube.com/watch?v=3vq5-wrfW2U&t=51s
+    Requirements: https://www.youtube.com/watch?v=3vq5-wrfW2U&t=47s. Solution Demo: https://www.youtube.com/watch?v=3vq5-wrfW2U&t=51s. Live Power App Creation: https://youtu.be/vjls7uxtS9U
     
 ## Contributing
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
