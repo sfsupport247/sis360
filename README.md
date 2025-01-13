@@ -3,8 +3,8 @@
 **sis360** is a modular Student Information System (SIS) developed using Microsoft's Power Platform. The project aims to streamline educational processes with a focus on scalability, automation, and user-friendliness.
 
 ## Modules
-- **Course Management**: Manage courses, instructors, and student enrollments.
-- **Student Enrollment** (Upcoming): Simplify onboarding and registration processes for students.
+- **Course Management**: Manage courses, instructors, and student enrollments. 
+- **(1/13/2025) Added Compliance** related updates https://sfsupport247.com/course-management-data-model-updates-sis360/ - New Changes**************************
 
 ## Features
 - Modular design to add multiple SIS functionalities.
@@ -12,7 +12,7 @@
 - AI and automation support using Microsoft Copilot.
 
 ## Getting Started
-To get started, explore the [Course Management](wave1/CourseManagement/) module or contribute to the project.
+To get started, explore the [Course Management](wave1.1/CourseManagement/) module or contribute to the project.
 
 Wave-1: 
     Requirements: https://www.youtube.com/watch?v=3vq5-wrfW2U&t=47s. Solution Demo: https://www.youtube.com/watch?v=3vq5-wrfW2U&t=51s. Live Power App Creation: https://youtu.be/vjls7uxtS9U

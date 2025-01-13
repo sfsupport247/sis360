@@ -1,0 +1,9 @@
+<botcomponent schemaname="sis360_agent.topic.Search">
+  <componenttype>9</componenttype>
+  <description>Create generative answers from knowledge sources.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Conversational boosting</name>
+  <parentbotid>
+    <schemaname>sis360_agent</schemaname>
+  </parentbotid>
+</botcomponent>

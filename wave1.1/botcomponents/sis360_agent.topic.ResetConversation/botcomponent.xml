@@ -1,0 +1,8 @@
+<botcomponent schemaname="sis360_agent.topic.ResetConversation">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Reset Conversation</name>
+  <parentbotid>
+    <schemaname>sis360_agent</schemaname>
+  </parentbotid>
+</botcomponent>

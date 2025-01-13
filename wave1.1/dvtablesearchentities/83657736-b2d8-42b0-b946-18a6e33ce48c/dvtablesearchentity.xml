@@ -1,0 +1,10 @@
+<dvtablesearchentity dvtablesearchentityid="83657736-b2d8-42b0-b946-18a6e33ce48c">
+  <dvtablesearch>
+    <dvtablesearchid>e06c2460-f3e0-458b-b4dd-4b99d775bd38</dvtablesearchid>
+  </dvtablesearch>
+  <entitylogicalname>sis360_enrollment</entitylogicalname>
+  <iscustomizable>0</iscustomizable>
+  <name>sis360_Enrollment</name>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</dvtablesearchentity>

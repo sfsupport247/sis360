@@ -1,0 +1,9 @@
+<botcomponent schemaname="sis360_agent.gpt.default">
+  <componenttype>15</componenttype>
+  <description>SIS360 Agent helps the users to get answers about SIS360 | Course Management</description>
+  <iscustomizable>0</iscustomizable>
+  <name>SIS360 Agent</name>
+  <parentbotid>
+    <schemaname>sis360_agent</schemaname>
+  </parentbotid>
+</botcomponent>

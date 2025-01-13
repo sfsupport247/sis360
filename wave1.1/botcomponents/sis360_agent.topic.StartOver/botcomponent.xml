@@ -1,0 +1,8 @@
+<botcomponent schemaname="sis360_agent.topic.StartOver">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Start Over</name>
+  <parentbotid>
+    <schemaname>sis360_agent</schemaname>
+  </parentbotid>
+</botcomponent>

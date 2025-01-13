@@ -1,0 +1,10 @@
+<dvtablesearchentity dvtablesearchentityid="fb07c02c-01fe-4563-8470-6bcae27ef4c0">
+  <dvtablesearch>
+    <dvtablesearchid>e06c2460-f3e0-458b-b4dd-4b99d775bd38</dvtablesearchid>
+  </dvtablesearch>
+  <entitylogicalname>sis360_student</entitylogicalname>
+  <iscustomizable>0</iscustomizable>
+  <name>sis360_Student</name>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</dvtablesearchentity>

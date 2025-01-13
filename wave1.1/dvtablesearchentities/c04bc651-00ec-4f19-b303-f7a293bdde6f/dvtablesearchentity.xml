@@ -1,0 +1,10 @@
+<dvtablesearchentity dvtablesearchentityid="c04bc651-00ec-4f19-b303-f7a293bdde6f">
+  <dvtablesearch>
+    <dvtablesearchid>e06c2460-f3e0-458b-b4dd-4b99d775bd38</dvtablesearchid>
+  </dvtablesearch>
+  <entitylogicalname>sis360_courseschedule</entitylogicalname>
+  <iscustomizable>0</iscustomizable>
+  <name>sis360_CourseSchedule</name>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</dvtablesearchentity>

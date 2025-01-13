@@ -1,0 +1,9 @@
+<botcomponent schemaname="sis360_agent.knowledge.Enrollment_InstructorStudentCourseCourseSchedule_Vp67j6JgYgKkRrWU_96l3">
+  <componenttype>16</componenttype>
+  <description>This knowledge source answers questions found in the following Dataverse tables: Enrollment, Instructor, Student, Course, Course Schedule</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Enrollment, Instructor, Student, Course, Course Schedule</name>
+  <parentbotid>
+    <schemaname>sis360_agent</schemaname>
+  </parentbotid>
+</botcomponent>
